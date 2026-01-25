@@ -1,4 +1,5 @@
-To get a quick summary of the project read the Project report-QUADRUPED ROBOT(1)PDF
+To get a quick summary of the project read the Project report-QUADRUPED ROBOT(1)PDF and QUADRUPED ROBOT WITH 5 BAR MECHANISM PDF
+
 
 
 The CAD assemblies for the quadruped robot can be installed from the below links:
