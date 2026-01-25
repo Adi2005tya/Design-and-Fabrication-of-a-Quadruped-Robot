@@ -1,4 +1,4 @@
-To get a quick summary of the project read the Project report PDF
+To get a quick summary of the project read the Project report-QUADRUPED ROBOT(1)PDF
 
 
 The CAD assemblies for the quadruped robot can be installed from the below links:
