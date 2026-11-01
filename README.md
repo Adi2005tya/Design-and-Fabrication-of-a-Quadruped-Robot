@@ -1,6 +1,9 @@
 
 #  Modelling & Simulation of a Spot-Inspired Quadruped Robot
 
+<img width="477" height="260" alt="image" src="https://github.com/user-attachments/assets/25187fa9-504e-4f87-a207-76ab11567d3d" />
+
+
 A SolidWorks CAD model and motion study of a 12-DOF quadruped robot, inspired by Boston Dynamics' **Spot**. Includes an earlier 8-DOF 3D-printed working prototype that can stand and sit.
 
 **Author:** Aditya Ganta, B.Tech Mechanical Engineering, NIT Tiruchirappalli
@@ -42,6 +45,9 @@ Each leg has 3 DOF. A **helical screw-and-nut mechanism** inside the hollow uppe
 - **Helical (screw) mate** converts rotary to linear motion.
 - **Limiting-angle mates** restrict joint ranges (shoulder limited to ±10°).
 
+  <img width="682" height="407" alt="image" src="https://github.com/user-attachments/assets/7d2afb0a-9797-4cfd-b119-46a4069084e3" />
+
+
 ## Mass Properties (SolidWorks)
 | Property | Value |
 |---|---|
@@ -53,6 +59,9 @@ Each leg has 3 DOF. A **helical screw-and-nut mechanism** inside the hollow uppe
 
 ##  Simulation
 SolidWorks **Motion Study** with a rotary motor applied to the lower limb (5 s duration) to verify limb movement.
+
+<img width="652" height="390" alt="image" src="https://github.com/user-attachments/assets/c9fdadd1-8962-42a4-9419-c83263d3241b" />
+
 
 ##  Future Work
 - Select motors and integrate control systems
