@@ -1,11 +1,10 @@
 
 #  Modelling & Simulation of a Spot-Inspired Quadruped Robot
 
-<img width="477" height="260" alt="image" src="https://github.com/user-attachments/assets/25187fa9-504e-4f87-a207-76ab11567d3d" />
-
 <img width="697" height="455" alt="image" src="https://github.com/user-attachments/assets/0b886675-8597-42ee-ae35-584fa48be6aa" />
 
 
+<img width="477" height="260" alt="image" src="https://github.com/user-attachments/assets/25187fa9-504e-4f87-a207-76ab11567d3d" />
 
 A SolidWorks CAD model and motion study of a 12-DOF quadruped robot, inspired by Boston Dynamics' **Spot**. Includes an earlier 8-DOF 3D-printed working prototype that can stand and sit.
 
